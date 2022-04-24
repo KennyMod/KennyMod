@@ -19,11 +19,18 @@ My area of expertise is focused on building robust front-ends and back-ends that
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-CC6699?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-663399?logo=Arduino&logoColor=white&style=for-the-badge" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-E10098?logo=Express.js&logoColor=white&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/badge/C%23-239120?logo=Postman&logoColor=white&style=for-the-badge" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-239120?logo=Postman&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=white&style=for-the-badge" />
 </p>
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on RESTFUL API 
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: kmodebelu@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KennyMod)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kenechukwu-modebelu-635391201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@kenechukwumodeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kennymodebelu.netlify.app)  
+
+
 
 
 
