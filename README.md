@@ -20,8 +20,7 @@ My area of expertise is focused on building robust front-ends and back-ends that
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=white&style=for-the-badge" />
 </p>
 
 Skills: REACT / JS / HTML5 / CSS3 / Bootstrap / MongoDB / Node.js / Arduino / Express.js
