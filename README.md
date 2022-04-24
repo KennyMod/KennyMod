@@ -24,7 +24,8 @@ My area of expertise is focused on building robust front-ends and back-ends that
 </p>
 
 - 🔭 I’m currently working on RESTFUL API 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript
+- 💻 You can find my portfolio ![here](https://kennymodebelu.netlify.app)
 - 📫 How to reach me: kmodebelu@gmail.com 
 
 
