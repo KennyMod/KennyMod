@@ -8,7 +8,7 @@ I'm Kenny from South Africa and I am a Full-Stack Software Engineer. Being a ful
 
 My area of expertise is focused on building robust front-ends and back-ends that do all the heavy lifting for your app or website. I love to create systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.
 
-### Skills
+### Language and Tools
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
