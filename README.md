@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kenny Modebelu
 #### I am a Full-Stack Software Engineer
-<!-- ![I am a Full-Stack Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
+![I am a Full-Stack Software Engineer](https://github.com/KennyMod/KennyMod/blob/main/cover.png)
 
 I'm Kenny from South Africa and I am a Full-Stack Software Engineer. Being a full-stack engineer, allows me to develop not only client-facing apps and websites but also to develop them with cutting-edge back-end support.
 
