@@ -1,14 +1,14 @@
 
 ![Design and Development](https://github.com/KennyMod/KennyMod/blob/main/cover.png)
 
-### Hi there 👋, my name is Kenny Modebelu
-#### I am a Full-Stack Software Engineer
+## Hi there 👋, my name is Kenny Modebelu
+### I am a Full-Stack Software Engineer @100Devs
 
 I'm Kenny from South Africa and I am a Full-Stack Software Engineer. Being a full-stack engineer, allows me to develop not only client-facing apps and websites but also to develop them with cutting-edge back-end support.
 
 My area of expertise is focused on building robust front-ends and back-ends that do all the heavy lifting for your app or website. I love to create systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.
 
-## Skills
+### Skills
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -28,7 +28,7 @@ My area of expertise is focused on building robust front-ends and back-ends that
 - 💻 You can find my portfolio [here](https://kennymodebelu.netlify.app)
 - 📫 How to reach me: kmodebelu@gmail.com 
 
-
+### Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KennyMod)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kenechukwu-modebelu-635391201//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@kenechukwumodeb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kennymodebelu.netlify.app)  
 
 
