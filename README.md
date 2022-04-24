@@ -9,9 +9,6 @@ I'm Kenny from South Africa and I am a Full-Stack Software Engineer. Being a ful
 My area of expertise is focused on building robust front-ends and back-ends that do all the heavy lifting for your app or website. I love to create systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.
 
 ## Skills
-* ⚛ REACT
-* 💻HTML, CSS & JS
-* <img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}" />
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -24,6 +21,7 @@ My area of expertise is focused on building robust front-ends and back-ends that
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </p>
 
 Skills: REACT / JS / HTML5 / CSS3 / Bootstrap / MongoDB / Node.js / Arduino / Express.js
