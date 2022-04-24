@@ -11,7 +11,7 @@ My area of expertise is focused on building robust front-ends and back-ends that
 ## Skills
 * ⚛ REACT
 * 💻HTML, CSS & JS
-* ![Bootstrap]({https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white})
+* <img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}" />
 
 Skills: REACT / JS / HTML5 / CSS3 / Bootstrap / MongoDB / Node.js / Arduino / Express.js
 
