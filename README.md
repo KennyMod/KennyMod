@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/KennyMod/KennyMod/blob/main/cover.png)](https://kennymodebelu.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Kenny Modebelu</h1>
-<h3 align="center">A Full Stack Software Engineer from South Africa</h3>
+<h3 align="center">A Full-Stack Software Engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymod&label=Profile%20views&color=0e75b6&style=flat" alt="kennymod" /> </p>
