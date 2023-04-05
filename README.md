@@ -19,15 +19,15 @@
 
 <h1 align="center">Hi 👋, I'm Kenny Modebelu</h1>
 <h3 align="center">A Full-Stack Software Engineer based in South Africa</h3>
-<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymod&label=Profile%20views&color=0e75b6&style=flat" alt="kennymod" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kenechukwumodeb" target="blank"><img src="https://img.shields.io/twitter/follow/kenechukwumodeb?logo=twitter&style=for-the-badge" alt="kenechukwumodeb" /></a> </p>
 
-- 🔭 I’m currently working on **GOOGLE AUTH**
+- 🔭 I’m currently working on **Next.js, React, TS**
 
-- 🌱 I’m currently learning **CRUD STACK**
+- 🌱 I’m currently learning **MAP INTEGRATION**
 
 - Currently accepting new client. Check out my portfolio [kennymodebelu.netlify.app](kennymodebelu.netlify.app)
 
