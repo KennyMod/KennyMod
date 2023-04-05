@@ -1,7 +1,5 @@
 [![MasterHead](https://github.com/KennyMod/KennyMod/blob/main/cover.png)](https://kennymodebelu.netlify.app)
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=FFA500&vCenter=true&center=true&width=460&lines= Full-Stack+Software+Engineer"</p> 
-
 <p align="center">
   <a href="https://kennymodebelu.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
