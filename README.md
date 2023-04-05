@@ -19,7 +19,7 @@
 
 <h1 align="center">Hi 👋, I'm Kenny Modebelu</h1>
 <h3 align="center">A Full-Stack Software Engineer based in South Africa</h3>
-<!-- <img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennymod&label=Profile%20views&color=0e75b6&style=flat" alt="kennymod" /> </p>
 
