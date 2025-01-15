@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **MAP INTEGRATION**
 
-- Currently accepting new client. Check out my portfolio [kennymodebelu.netlify.app]([kennymodebelu.netlify.app](https://kennymodebelu.netlify.app/))
+- Currently accepting new clients. Check out my portfolio [kennymodebelu.netlify.app](https://kennymodebelu.netlify.app)
 
 - 💬 Ask me about **MongoDB, Express.js, React Native, Node.js**
 
