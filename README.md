@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/KennyMod/KennyMod/blob/main/kennyMod.png)](https://kennymodebelu.netlify.app)
+[![MasterHead](https://github.com/KennyMod/KennyMod/blob/main/cover.png)](https://kennymodebelu.netlify.app)
 
 <p align="center">
   <a href="https://kennymodebelu.netlify.app" target="_blank">
